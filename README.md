@@ -1,4 +1,7 @@
 # medical_report_explainer
+
+🌐 **Live app:** https://medicalreportexplainer-ycymeyamprgnecthehdxxc.streamlit.app/
+
 AI Medical Report Explainer – RAG chatbot that explains lab reports in simple English (demo data only)
 # 🏥 AI Medical Report Explainer
 
